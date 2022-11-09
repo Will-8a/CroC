@@ -1,0 +1,13 @@
+D:\vs\CroC\CroC\bin\Debug\CroC.exe.config
+D:\vs\CroC\CroC\bin\Debug\CroC.exe
+D:\vs\CroC\CroC\bin\Debug\CroC.pdb
+D:\vs\CroC\CroC\obj\Debug\CroC.csprojResolveAssemblyReference.cache
+D:\vs\CroC\CroC\obj\Debug\CroC.frm_MDI.resources
+D:\vs\CroC\CroC\obj\Debug\CroC.Properties.Resources.resources
+D:\vs\CroC\CroC\obj\Debug\CroC.csproj.GenerateResource.Cache
+D:\vs\CroC\CroC\obj\Debug\CroC.exe
+D:\vs\CroC\CroC\obj\Debug\CroC.pdb
+D:\vs\CroC\CroC\obj\Debug\CroC.frm_IngresarDatos.resources
+D:\vs\CroC\CroC\CroC\bin\Debug\CroC.exe.config
+D:\vs\CroC\CroC\CroC\obj\Debug\CroC.exe
+D:\vs\CroC\CroC\CroC\obj\Debug\CroC.pdb
